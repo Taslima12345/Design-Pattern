@@ -1,0 +1,1 @@
+Bridge pattern Class work
